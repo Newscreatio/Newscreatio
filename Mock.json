@@ -1,22 +1,24 @@
 [
 {
-"Nome":"Pulp Fiction"
-"Anno":"1989"
-"genere":"Drama"
-"incassi": "20MLN"
+"Nome":"Pulp Fiction",
+"Anno":1989,
+"genere":"Drama",
+"incassi": "20MLN",
 "regista": "Quentin Tarantino"
 },
 {
-"Nome":"Bastardi Senza gloria"
-"Anno":"1995"
-"genere":"Storico"
-"incassi": "15MLN"
+"Nome":"Bastardi Senza gloria",
+"Anno":1995,
+"genere":"Storico",
+"incassi": "15MLN",
 "regista": "Quentin Tarantino"
 },
 {
-"Nome":"ET"
-"Anno":"1997"
-"genere":"Fantascienza"
-"incassi": "8MLN"
+"Nome":"ET",
+"Anno":1997,
+"genere":"Fantascienza",
+"incassi": "8MLN",
 "regista": "Steven Spielberg"
 }
+]
+
